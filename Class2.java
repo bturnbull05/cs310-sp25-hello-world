@@ -1,6 +1,6 @@
 /**
  *
- * @author Your Name
+ * @author Bradyn Turnbull
  */
 
 public class Class2 {
